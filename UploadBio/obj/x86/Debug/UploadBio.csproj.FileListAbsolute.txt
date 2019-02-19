@@ -1,0 +1,10 @@
+D:\Projects\UploadBio\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\UploadBio\obj\x86\Debug\UploadBio.frmUploadBio.resources
+D:\Projects\UploadBio\obj\x86\Debug\UploadBio.Properties.Resources.resources
+D:\Projects\UploadBio\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\UploadBio\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\UploadBio\bin\Debug\UploadBio.exe.config
+D:\Projects\UploadBio\bin\Debug\UploadBio.exe
+D:\Projects\UploadBio\bin\Debug\UploadBio.pdb
+D:\Projects\UploadBio\obj\x86\Debug\UploadBio.exe
+D:\Projects\UploadBio\obj\x86\Debug\UploadBio.pdb
